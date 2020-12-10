@@ -1,0 +1,60 @@
+.feature-v15{
+    height: 100vh;
+}
+
+.feature-v15__content{
+    height: 100vh;
+}
+
+#responsiveness{
+    height: 100vh;
+}
+
+.reviews-section-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.web-design-intro{
+    background-image:url('../img/poly.svg')
+}
+
+.testimonials{
+    background-image:url('../img/poly.svg')
+}
+
+
+
+.cta-1{
+    margin:10vh 10vw;
+
+    box-shadow: 2px 2px 2px grey;
+}
+
+.something-more-button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10vh 0vw;
+}
+
+.promises{
+    background-image:url('../img/Photon-10s-1429px\ \(1\).svg');
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+}
+
+.promises-wrapper{
+    padding: 10vh 15vw;
+    height: 100vh;
+    background-color:rgba(255, 255, 255, 0.61);
+}
+
+.contact-form{
+    padding: 5vh 15vw;
+}
