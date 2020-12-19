@@ -100,3 +100,51 @@
     background-repeat: no-repeat;
 }
 
+.icons-wrapper{
+    padding: 10vh 20vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.tech-icon{
+    margin: .5vh .5vw;
+    padding: 2px 2px;
+   color: hotpink;
+   font-size: 2rem;
+   text-shadow: .5px .5px 1px grey;
+   text-decoration: none;
+   border-bottom: none !important;
+
+}
+
+.tech-icon:hover{
+    text-shadow: none;
+   color: #1b1b1b;
+   background-color:hotpink;
+   box-shadow: 1px 1px 1px grey;
+   border-bottom: none !important;
+}
+
+i{
+    border-bottom: none !important;
+    text-decoration: none !important;
+}
+
+span{
+    text-decoration: none;
+    border-bottom: none !important;
+}
+
+.tech-link{
+    text-decoration:none;
+    color: hotpink;
+}
+
+.tech-link:hover{
+    background-color:hotpink;
+    color:#1b1b1b;
+}
